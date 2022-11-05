@@ -6,7 +6,7 @@ Meetings are open to anyone of any age or level of expertise.
 ## Next meeting
 
 Join us on our next meeting on the first Friday of the month at Foo Café!
-We don't have any entrace fee, but have free beer and pizza!
+We don't have any entrance fee but have free beer and pizza!
 
 17:00-20:00
 Carlsgatan 12a, Malmö, Sweden
@@ -19,9 +19,10 @@ Our socials:
 ## Previous meetings 
 
 Some of the meetings were streamed and recorded, for those you will find a link to YouTube video. 
-Some of the speakers wanted make their slide deck availeble for public, for those you will find a link for either `.pdf` or `.pptx`. 
+Some of the speakers wanted make their slide deck available for public, for those you will find a link for either `.pdf`, `.pptx`, or any other format that speaker would prefer. 
 
 ### 2022
+- [November](pages/November2022)
 - [October](pages/October2022)
 - [September](pages/September2022)
 - [August](pages/August2022) 
