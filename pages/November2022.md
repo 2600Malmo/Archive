@@ -4,7 +4,7 @@ layout: default
 
 ## November 2022
 - [dvirus](https://twitter.com/dvirus) presented about `Incident Response in Google Cloud`. This session was recorded.  
-> [Recording](https://youtu.be/06MTxNWPB8w) 
+> [Recording](https://youtu.be/OSzrEgDZNaM) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OSzrEgDZNaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
