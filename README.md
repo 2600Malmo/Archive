@@ -24,6 +24,9 @@ Some of the meetings were streamed and recorded, for those you will find a link 
 Some of the speakers wanted make their slide deck available for public, for those you will find a link for either `.pdf`, `.pptx`, or any other format that speaker would prefer. 
 
 ### 2023
+- [June](pages/June2023)
+- [May](pages/May2023)
+- [April](pages/April2023)
 - [March](pages/March2023)
 - [February](pages/February2023)
 - [January](pages/January2023)
