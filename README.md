@@ -23,7 +23,8 @@ Our socials:
 Some of the meetings were streamed and recorded, for those you will find a link to YouTube video. 
 Some of the speakers wanted make their slide deck available for public, for those you will find a link for either `.pdf`, `.pptx`, or any other format that speaker would prefer. 
 
-### 2023
+### 2023  
+- [July](pages/July2023)
 - [June](pages/June2023)
 - [May](pages/May2023)
 - [April](pages/April2023)
