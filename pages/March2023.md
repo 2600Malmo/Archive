@@ -12,7 +12,7 @@ layout: default
 - [@klausagnoletti](https://www.linkedin.com/in/agnoletti/) presented about `Community employer branding: Learning geek`.  
 > Video recording will be available later
 
-- [@0xDEADC0FFEE](https://www.linkedin.com/in/sergei-zaiats/) presented about `Wannabe project - writing a book together to help newcommers break to the field`.  
+- [@Sergei](https://www.linkedin.com/in/sergei-zaiats/) presented about `Wannabe project - writing a book together to help newcommers break to the field`.  
 > This talk was not recorded
 
 ## Make a Pull Request if you want your slides to be here!

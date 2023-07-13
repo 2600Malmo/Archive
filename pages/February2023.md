@@ -11,7 +11,7 @@ layout: default
 > Slides:  
 Slides will be uploaded soon
 
-- [@0xDEADC0FFEE](https://www.linkedin.com/in/sergei-zaiats/) presented about `ChatGPT for hackers`.
+- [@Sergei](https://www.linkedin.com/in/sergei-zaiats/) presented about `ChatGPT for hackers`.
 > [Slides](https://docs.google.com/presentation/d/1Qbf4eAqTFJ1_957AVAQwquw8m4y3j7mI7fa5WdsAmno/edit?usp=sharing)  
 > Video recording:  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5csqNLb_7MA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
