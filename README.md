@@ -15,7 +15,8 @@ Carlsgatan 12a, Malmö, Sweden
 Our socials:
 - [Telegram](https://t.me/+00dNr-O0N08wOGRi) 
 - [Matrix](https://matrix.to/#/#2600malmo:matrix.org)  
-- [Discord](https://discord.gg/btCkZfECGy)  
+- [Discord](https://discord.gg/btCkZfECGy)
+- <a rel="me" href="https://mastodon.online/@2600Malmo">Mastodon</a> 
 - [Twitter](https://twitter.com/2600malmo)  
 
 ## Previous meetings 
