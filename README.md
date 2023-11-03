@@ -3,9 +3,6 @@
 2600 meetings exist as a forum for all interested in technology to meet and talk about events in technology-land, learn and teach. 
 Meetings are open to anyone of any age or level of expertise.
 
-# Hacktoberfest  
-It is this time of the year again. Both our repos are participating in Hacktoberfest this year. Feel free to submit your PR's!
-
 ## Next meeting
 
 Join us on our next meeting on the first Friday of the month at Foo Café!
