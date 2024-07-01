@@ -16,15 +16,23 @@ Our socials:
 - [Telegram](https://t.me/+00dNr-O0N08wOGRi) 
 - [Matrix](https://matrix.to/#/#2600malmo:matrix.org)  
 - [Discord](https://discord.gg/btCkZfECGy)
-- <a rel="me" href="https://mastodon.online/@2600Malmo">Mastodon</a> 
+- [Mastodon](https://mastodon.online/@2600Malmo)
 - [Twitter](https://twitter.com/2600malmo)  
+
+## Digital badge  
+If you ever gave a presentation for 2600 Malmö community you are entitled for a digital [Speaker](https://badgr.com/public/badges/S3xgCbl3R9SVH3fkkaKX9Q) badge!  
+Reach out in any of our socials to get it.
 
 ## Previous meetings 
 
 Some of the meetings were streamed and recorded, for those you will find a link to YouTube video. 
 Some of the speakers wanted make their slide deck available for public, for those you will find a link for either `.pdf`, `.pptx`, or any other format that speaker would prefer. 
 
-### 2024 
+### 2024
+- [July](pages/July2024)
+- [June](pages/June2024)
+- [May](pages/May2024)
+- [April](pages/April2024)
 - [March](pages/March2024)
 - [February](pages/February2024)
 - [January](pages/January2024)
