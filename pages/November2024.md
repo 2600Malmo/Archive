@@ -8,6 +8,6 @@ layout: default
 > [Slides](/slides/November2024/HackersVsSega.pdf)
  
 ## It was also our third anniversary! Happy Birthday 2600 Malmö! 
-Do you remeber haw we started? [This](/pages/November2021.md) was our first meetup. 
+Do you remeber haw we started? [This](/pages/November2021) was our first meetup. 
 
 [back](/)
