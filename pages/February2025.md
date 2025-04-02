@@ -4,10 +4,10 @@ layout: default
 
 ## February 2025
 
-- [korvbagarens](URL) presented about `home labbing`.   
+- [Folke Johansson](https://github.com/SwedishMoosey) presented about `Homelabbing with a focus on networking, storage and virtualization `.   
 
-> A more detailed description and slides can be attached here ;-) 
+The slides might be a little sparse sometimes because most information was presented verbally but you should still find some informational diagrams that are interesting!
 
-## Make a Pull Request if you want your slides to be here!
+> [Slides](/slides/February2025/homelab.pdf)
 
 [back](/)
