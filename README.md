@@ -28,7 +28,13 @@ Reach out in any of our socials to get it.
 Some of the meetings were streamed and recorded, for those you will find a link to YouTube video. 
 Some of the speakers wanted make their slide deck available for public, for those you will find a link for either `.pdf`, `.pptx`, or any other format that speaker would prefer. 
 
+### 2025
+- [March](pages/March2025)
+- [February](pages/February2025)
+- [January](pages/January2025)
+
 ### 2024
+- [December](pages/December2024)  
 - [November](pages/November2024)
 - [October](pages/October2024)
 - [September](pages/September2024)
