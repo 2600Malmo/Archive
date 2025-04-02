@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## February 2024
+## February 2025
 
 - [korvbagarens](URL) presented about `home labbing`.   
 
