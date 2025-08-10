@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+## August 2025
+
+- [Sergei](https://www.linkedin.com/in/sergei-zaiats/) presented about `Building home Malware Analysis lab in 2025` 
+> [Slides](/slides/August2025/Home Malware Lab 2025.pdf)
+
+- [Klaus](https://www.linkedin.com/in/agnoletti/) presented about his project in collaboration with Malware Village this year - `Malware & Monsters`. A wild mix of D&D and Pokemons, check it out [Malware & Monsters](https://malwareandmonsters.com/)
+
+
+## Make a Pull Request if you want your slides to be here!
+
+[back](/)
